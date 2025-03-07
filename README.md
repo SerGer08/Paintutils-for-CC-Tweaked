@@ -9,6 +9,7 @@ Currently, there are several functions:
 - drawFilledBox(startX, startY, endX, endY, colour) - draw a filled box
 - drawCircle(centerX, centerY, radius, colour) - draw an empty circle with one pixel thick edges
 - drawFilledCircle(centerX, centerY, radius, colour) - draw a filled circle
+
 Also this library works with images like original paintutils:
 - parseImage(image) - convert the string image scheme to table
 - loadImage(path) - load and parse the image
